@@ -1,1 +1,1 @@
-this is my first python code
+this is my first python code as an assignment
